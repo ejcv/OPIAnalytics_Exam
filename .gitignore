@@ -1,2 +1,5 @@
-tamales_inc
-teinvento_inc
+database/tamales_inc
+database/teinvento_inc
+crudo
+procesado
+__pycache__/
