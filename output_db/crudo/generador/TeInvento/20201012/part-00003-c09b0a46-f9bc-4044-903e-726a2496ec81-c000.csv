@@ -1,0 +1,3 @@
+region_id,product_id,year,month,sales,type,vendor,flavor,manufacturer,country,location
+850403524608,1675037245440,2019,Jan,2224.25,Light,Tamal mix Mole,Tamal mix Mole,Tamales Inc,Mexico,Sur
+893353197568,1675037245440,2018,Dec,3951.76,Light,Tamal mix Mole,Tamal mix Mole,Tamales Inc,Mexico,Centro

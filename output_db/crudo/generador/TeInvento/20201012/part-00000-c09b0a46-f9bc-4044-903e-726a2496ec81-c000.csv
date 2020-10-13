@@ -1,0 +1,85 @@
+region_id,product_id,year,month,sales,type,vendor,flavor,manufacturer,country,location
+446676598784,1692217114624,2019,Jan,-1.00,Regular,"","",Tamales Inc,Mexico,Norte
+446676598784,1692217114624,2018,May,-1.00,Regular,"","",Tamales Inc,Mexico,Norte
+446676598784,1692217114624,2019,May,-1.00,Regular,"","",Tamales Inc,Mexico,Norte
+446676598784,1692217114624,2020,Jan,-1.00,Regular,"","",Tamales Inc,Mexico,Norte
+446676598784,1692217114624,2018,Oct,-1.00,Regular,"","",Tamales Inc,Mexico,Norte
+446676598784,1692217114624,2018,Nov,-1.00,Regular,"","",Tamales Inc,Mexico,Norte
+446676598784,1692217114624,2019,Feb,-1.00,Regular,"","",Tamales Inc,Mexico,Norte
+446676598784,1692217114624,2018,Sep,-1.00,Regular,"","",Tamales Inc,Mexico,Norte
+446676598784,1692217114624,2019,Oct,-1.00,Regular,"","",Tamales Inc,Mexico,Norte
+446676598784,1692217114624,2018,Apr,-1.00,Regular,"","",Tamales Inc,Mexico,Norte
+446676598784,1692217114624,2018,Jun,-1.00,Regular,"","",Tamales Inc,Mexico,Norte
+446676598784,1692217114624,2019,Apr,-1.00,Regular,"","",Tamales Inc,Mexico,Norte
+446676598784,1692217114624,2020,Apr,-1.00,Regular,"","",Tamales Inc,Mexico,Norte
+446676598784,1692217114624,2019,Nov,-1.00,Regular,"","",Tamales Inc,Mexico,Norte
+446676598784,1692217114624,2020,May,-1.00,Regular,"","",Tamales Inc,Mexico,Norte
+446676598784,1692217114624,2018,Jan,-1.00,Regular,"","",Tamales Inc,Mexico,Norte
+446676598784,1692217114624,2019,Aug,-1.00,Regular,"","",Tamales Inc,Mexico,Norte
+446676598784,1692217114624,2019,Mar,-1.00,Regular,"","",Tamales Inc,Mexico,Norte
+446676598784,1692217114624,2018,Mar,-1.00,Regular,"","",Tamales Inc,Mexico,Norte
+446676598784,1692217114624,2018,Jul,-1.00,Regular,"","",Tamales Inc,Mexico,Norte
+446676598784,1692217114624,2020,Feb,-1.00,Regular,"","",Tamales Inc,Mexico,Norte
+446676598784,1692217114624,2019,Dec,-1.00,Regular,"","",Tamales Inc,Mexico,Norte
+446676598784,1692217114624,2019,Sep,-1.00,Regular,"","",Tamales Inc,Mexico,Norte
+446676598784,1692217114624,2018,Dec,-1.00,Regular,"","",Tamales Inc,Mexico,Norte
+446676598784,1692217114624,2019,Jul,-1.00,Regular,"","",Tamales Inc,Mexico,Norte
+446676598784,1692217114624,2019,Jun,-1.00,Regular,"","",Tamales Inc,Mexico,Norte
+446676598784,1692217114624,2018,Feb,-1.00,Regular,"","",Tamales Inc,Mexico,Norte
+446676598784,1692217114624,2020,Mar,-1.00,Regular,"","",Tamales Inc,Mexico,Norte
+446676598784,1692217114624,2018,Aug,-1.00,Regular,"","",Tamales Inc,Mexico,Norte
+1151051235328,1692217114624,2018,Sep,-1.00,Regular,"","",Tamales Inc,Mexico,E. Privados
+1151051235328,1692217114624,2018,Apr,-1.00,Regular,"","",Tamales Inc,Mexico,E. Privados
+1151051235328,1692217114624,2019,Jul,-1.00,Regular,"","",Tamales Inc,Mexico,E. Privados
+1151051235328,1692217114624,2020,Apr,-1.00,Regular,"","",Tamales Inc,Mexico,E. Privados
+1151051235328,1692217114624,2020,May,-1.00,Regular,"","",Tamales Inc,Mexico,E. Privados
+1151051235328,1692217114624,2018,Jan,-1.00,Regular,"","",Tamales Inc,Mexico,E. Privados
+1151051235328,1692217114624,2018,Oct,-1.00,Regular,"","",Tamales Inc,Mexico,E. Privados
+1151051235328,1692217114624,2018,Mar,-1.00,Regular,"","",Tamales Inc,Mexico,E. Privados
+1151051235328,1692217114624,2019,Apr,-1.00,Regular,"","",Tamales Inc,Mexico,E. Privados
+1151051235328,1692217114624,2018,Dec,-1.00,Regular,"","",Tamales Inc,Mexico,E. Privados
+1151051235328,1692217114624,2020,Jan,-1.00,Regular,"","",Tamales Inc,Mexico,E. Privados
+1151051235328,1692217114624,2020,Feb,-1.00,Regular,"","",Tamales Inc,Mexico,E. Privados
+1151051235328,1692217114624,2020,Mar,-1.00,Regular,"","",Tamales Inc,Mexico,E. Privados
+1151051235328,1692217114624,2018,Aug,-1.00,Regular,"","",Tamales Inc,Mexico,E. Privados
+1151051235328,1692217114624,2019,Nov,-1.00,Regular,"","",Tamales Inc,Mexico,E. Privados
+1151051235328,1692217114624,2018,Nov,-1.00,Regular,"","",Tamales Inc,Mexico,E. Privados
+1151051235328,1692217114624,2019,Jan,-1.00,Regular,"","",Tamales Inc,Mexico,E. Privados
+1151051235328,1692217114624,2019,Mar,-1.00,Regular,"","",Tamales Inc,Mexico,E. Privados
+1151051235328,1692217114624,2018,Jun,-1.00,Regular,"","",Tamales Inc,Mexico,E. Privados
+1151051235328,1692217114624,2019,Dec,-1.00,Regular,"","",Tamales Inc,Mexico,E. Privados
+996432412672,1692217114624,2019,May,-1.00,Regular,"","",Tamales Inc,Mexico,""
+996432412672,1692217114624,2018,Feb,-1.00,Regular,"","",Tamales Inc,Mexico,""
+996432412672,1692217114624,2018,Jul,-1.00,Regular,"","",Tamales Inc,Mexico,""
+996432412672,1692217114624,2019,Jun,-1.00,Regular,"","",Tamales Inc,Mexico,""
+996432412672,1692217114624,2019,Feb,-1.00,Regular,"","",Tamales Inc,Mexico,""
+996432412672,1692217114624,2018,May,-1.00,Regular,"","",Tamales Inc,Mexico,""
+996432412672,1692217114624,2019,Aug,-1.00,Regular,"","",Tamales Inc,Mexico,""
+1151051235328,1606317768704,2018,Apr,4.50,Regular,Atole mix Arroz,Atole mix Arroz,Tamales Inc,Mexico,E. Privados
+1151051235328,1606317768704,2019,Aug,3.57,Regular,Atole mix Arroz,Atole mix Arroz,Tamales Inc,Mexico,E. Privados
+1151051235328,1606317768704,2018,Jul,0.15,Regular,Atole mix Arroz,Atole mix Arroz,Tamales Inc,Mexico,E. Privados
+1151051235328,1606317768704,2018,Aug,5.32,Regular,Atole mix Arroz,Atole mix Arroz,Tamales Inc,Mexico,E. Privados
+1151051235328,1606317768704,2018,Dec,0.78,Regular,Atole mix Arroz,Atole mix Arroz,Tamales Inc,Mexico,E. Privados
+1151051235328,1606317768704,2019,Jul,0.83,Regular,Atole mix Arroz,Atole mix Arroz,Tamales Inc,Mexico,E. Privados
+1151051235328,1606317768704,2018,Mar,6.94,Regular,Atole mix Arroz,Atole mix Arroz,Tamales Inc,Mexico,E. Privados
+1151051235328,1606317768704,2019,Jun,0.84,Regular,Atole mix Arroz,Atole mix Arroz,Tamales Inc,Mexico,E. Privados
+1151051235328,1606317768704,2018,Jan,128.31,Regular,Atole mix Arroz,Atole mix Arroz,Tamales Inc,Mexico,E. Privados
+1151051235328,1606317768704,2018,Sep,64.88,Regular,Atole mix Arroz,Atole mix Arroz,Tamales Inc,Mexico,E. Privados
+1151051235328,1606317768704,2019,May,2.38,Regular,Atole mix Arroz,Atole mix Arroz,Tamales Inc,Mexico,E. Privados
+1151051235328,1606317768704,2018,Jun,111.51,Regular,Atole mix Arroz,Atole mix Arroz,Tamales Inc,Mexico,E. Privados
+1151051235328,1606317768704,2019,Feb,0.53,Regular,Atole mix Arroz,Atole mix Arroz,Tamales Inc,Mexico,E. Privados
+1151051235328,1606317768704,2020,May,643.39,Regular,Atole mix Arroz,Atole mix Arroz,Tamales Inc,Mexico,E. Privados
+1151051235328,1606317768704,2020,Mar,0.69,Regular,Atole mix Arroz,Atole mix Arroz,Tamales Inc,Mexico,E. Privados
+1151051235328,1606317768704,2019,Dec,2.32,Regular,Atole mix Arroz,Atole mix Arroz,Tamales Inc,Mexico,E. Privados
+1151051235328,1606317768704,2019,Sep,0.40,Regular,Atole mix Arroz,Atole mix Arroz,Tamales Inc,Mexico,E. Privados
+1151051235328,1606317768704,2018,May,8.29,Regular,Atole mix Arroz,Atole mix Arroz,Tamales Inc,Mexico,E. Privados
+1151051235328,1606317768704,2018,Feb,3.33,Regular,Atole mix Arroz,Atole mix Arroz,Tamales Inc,Mexico,E. Privados
+1151051235328,1606317768704,2019,Apr,0.82,Regular,Atole mix Arroz,Atole mix Arroz,Tamales Inc,Mexico,E. Privados
+1151051235328,1606317768704,2018,Oct,0.86,Regular,Atole mix Arroz,Atole mix Arroz,Tamales Inc,Mexico,E. Privados
+1151051235328,1606317768704,2019,Mar,69.50,Regular,Atole mix Arroz,Atole mix Arroz,Tamales Inc,Mexico,E. Privados
+1151051235328,1606317768704,2020,Jan,4.02,Regular,Atole mix Arroz,Atole mix Arroz,Tamales Inc,Mexico,E. Privados
+996432412672,1606317768704,2019,Oct,"",Regular,Atole mix Arroz,Atole mix Arroz,Tamales Inc,Mexico,""
+996432412672,1606317768704,2020,Feb,"",Regular,Atole mix Arroz,Atole mix Arroz,Tamales Inc,Mexico,""
+996432412672,1606317768704,2018,Nov,"",Regular,Atole mix Arroz,Atole mix Arroz,Tamales Inc,Mexico,""
+996432412672,1606317768704,2019,Jan,"",Regular,Atole mix Arroz,Atole mix Arroz,Tamales Inc,Mexico,""
+996432412672,1606317768704,2020,Apr,"",Regular,Atole mix Arroz,Atole mix Arroz,Tamales Inc,Mexico,""

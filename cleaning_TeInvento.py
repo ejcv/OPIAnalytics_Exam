@@ -10,15 +10,16 @@ load_dotenv()
 spark = SparkSession.builder.appName('OPI_Exam').getOrCreate()
 
 db_path = os.environ.get("DATABASE_PATH")
+output_path = os.environ.get("OUTPUT_PATH")
 
 RAW_DATA_PATH = f"{db_path}/teinvento_inc/ventas_reportadas_mercado_tamales/mx/20200801/"
 
 today = date.today().strftime("%Y%m%d")
 
 # TeInvento Inc data
-FACT_DATA_PATH = "{0}fact_table/".format(RAW_DATA_PATH)
-PRODUCT_DIM_DATA_PATH = "{0}product_dim/".format(RAW_DATA_PATH)
-REGION_DIM_DATA_PATH = "{0}region_dim/".format(RAW_DATA_PATH)
+FACT_DATA_PATH = f"{RAW_DATA_PATH}fact_table/"
+PRODUCT_DIM_DATA_PATH = f"{RAW_DATA_PATH}product_dim/"
+REGION_DIM_DATA_PATH = f"{RAW_DATA_PATH}region_dim/"
 
 fact_data_schema = st.StructType([
     st.StructField('year', st.StringType(), True),
@@ -58,9 +59,9 @@ fact_table_df = fact_table_df.join(product_dim_table_df, on=['product_id'], how=
 fact_table_df = fact_table_df.filter((fact_table_df.manufacturer == 'Tamales Inc'))
 
 fact_table_df.write.format('csv').option('header', True).mode('overwrite').option('sep', ',')\
-    .save(f'./crudo/generador/TeInvento/{today}/output.csv')
+    .save(f'{output_path}/crudo/generador/TeInvento/{today}/')
 
 monthly_sales_df = useful_functions.analysis(fact_table_df)
 
 monthly_sales_df.write.format('csv').option('header', True).mode('overwrite').option('sep', ',')\
-    .save(f'./procesado/generador/TeInvento/{today}/output.csv')
+    .save(f'{output_path}/procesado/generador/TeInvento/{today}/')

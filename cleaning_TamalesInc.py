@@ -10,6 +10,7 @@ load_dotenv()
 spark = SparkSession.builder.appName('OPI_Exam').getOrCreate()
 
 db_path = os.environ.get("DATABASE_PATH")
+output_path = os.environ.get("OUTPUT_PATH")
 
 RAW_DATA_PATH = f"{db_path}/tamales_inc/ventas_mensuales_tamales_inc/"
 
@@ -37,9 +38,9 @@ csv_files = [os.path.join(root, name)
 
 df = spark.read.schema(tamales_schema).csv(csv_files)
 df.write.format('csv').option('header', True).mode('overwrite').option('sep', ',')\
-    .save(f'./crudo/generador/TamalesInc/{today}/output.csv')
+    .save(f'{output_path}/crudo/generador/TamalesInc/{today}/')
 
 monthly_sales_df = useful_functions.analysis(df)
 
 monthly_sales_df.write.format('csv').option('header', True).mode('overwrite').option('sep', ',')\
-    .save(f'./procesado/generador/TamalesInc/{today}/output.csv')
+    .save(f'{output_path}/procesado/generador/TamalesInc/{today}/')
